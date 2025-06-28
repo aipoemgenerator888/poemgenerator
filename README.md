@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Explore an AI Poem Generator for GitHub that turns ideas into structured poetry using artificial intelligence." />
-  <title>AI Poem Generator for GitHub</title>
+  <title> Tranform ideas into poem with AI Poem Generator </title>
 </head>
 <body>
 
@@ -12,7 +12,7 @@
     <h1> Tranform ideas into poem with AI Poem Generator </h1>
 
     <!-- Image Placeholder -->
-    <img src="your-image.jpg" alt="AI poem generator interface" style="max-width:100%; height:auto;" />
+    <img src="file:///C:/Users/hp/Downloads/ai%20poem%20generator%20.webp" alt="AI poem generator interface" style="max-width:100%; height:auto;" />
 
     <p>
       AI-driven writing tools continue to change how digital creators work, and poem generation is one area gaining attention. A GitHub-based AI poem generator allows users to automatically create poems using input prompts, language patterns, and machine learning algorithms. These tools are built to support writers, developers, and content creators who need quick poetic drafts or creative inspiration.
@@ -24,7 +24,7 @@
 
     <!-- External Website Link -->
     <p>
-      For more AI-based writing tools and SEO-friendly content solutions, visit <a href="https://yourwebsite.com" target="_blank" rel="noopener">my website</a>.
+      For more AI-based writing tools and SEO-friendly content solutions, Try Ai poem Maker Online
     </p>
 
     <!-- Try Now Button -->
